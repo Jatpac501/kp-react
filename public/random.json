@@ -1,0 +1,486 @@
+{
+  "fees": {
+    "world": {
+      "value": 439550,
+      "currency": "$"
+    },
+    "russia": {
+      "value": 16088,
+      "currency": "$"
+    }
+  },
+  "status": null,
+  "externalId": {
+    "kpHD": "49f38812c13cd2eaad0721cabc8101a7",
+    "imdb": "tt5723056",
+    "tmdb": 603106
+  },
+  "rating": {
+    "kp": 7.513,
+    "imdb": 7.3,
+    "filmCritics": 0,
+    "russianFilmCritics": 0,
+    "await": null
+  },
+  "votes": {
+    "kp": 9590,
+    "imdb": 2890,
+    "filmCritics": 0,
+    "russianFilmCritics": 0,
+    "await": 210
+  },
+  "backdrop": {
+    "url": "https://avatars.mds.yandex.net/get-ott/1648503/2a0000016f5a9f87d2d60f4410b9f9b34f83/orig",
+    "previewUrl": "https://avatars.mds.yandex.net/get-ott/1648503/2a0000016f5a9f87d2d60f4410b9f9b34f83/x1000"
+  },
+  "movieLength": 103,
+  "images": {
+    "postersCount": 21,
+    "backdropsCount": 5,
+    "framesCount": 0
+  },
+  "productionCompanies": [
+    {
+      "name": "GFC Films",
+      "url": "https://www.themoviedb.org/t/p/original/qGnRCIiH9njlM5GRyAeUubZJJ9p.png",
+      "previewUrl": "https://www.themoviedb.org/t/p/w500/qGnRCIiH9njlM5GRyAeUubZJJ9p.png"
+    },
+    {
+      "name": "Upside Production",
+      "url": "https://www.themoviedb.org/t/p/original/qIS5ipEl4QfF1z1o3Dwy19Kqfe9.png",
+      "previewUrl": "https://www.themoviedb.org/t/p/w500/qIS5ipEl4QfF1z1o3Dwy19Kqfe9.png"
+    }
+  ],
+  "spokenLanguages": [
+    {
+      "name": "Français",
+      "nameEn": "French"
+    },
+    {
+      "name": "English",
+      "nameEn": "English"
+    }
+  ],
+  "id": 981222,
+  "type": "movie",
+  "name": "Капитал в XXI веке",
+  "description": "Главный персонаж фильма – капитализм. В мире капитала Симпсоны соседствуют с героями Джейн Остин, Уолл-стрит влияет на цены в Окленде, а причины сегодняшней инфляции берут свое начало аж в Первой мировой войне.",
+  "distributors": {
+    "distributor": "Russian World Vision",
+    "distributorRelease": null
+  },
+  "premiere": {
+    "world": "2019-06-13T00:00:00.000Z",
+    "russia": "2019-09-12T00:00:00.000Z"
+  },
+  "slogan": "Это наш последний шанс изменить систему",
+  "year": 2019,
+  "poster": {
+    "url": "https://st.kp.yandex.net/images/film_big/981222.jpg",
+    "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_981222.jpg"
+  },
+  "facts": [],
+  "genres": [
+    {
+      "name": "документальный"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Франция"
+    },
+    {
+      "name": "Новая Зеландия"
+    }
+  ],
+  "videos": {
+    "trailers": [
+      {
+        "url": "https://youtu.be/reyy9ASpMSc",
+        "name": "Трейлер",
+        "site": "youtube"
+      },
+      {
+        "url": "http://trailers.s3.mds.yandex.net/video_original/162061-c0abfaf6cfa2d1dce9b0e6a9276d3fac.mov",
+        "name": "Трейлер (русский язык)",
+        "site": "unknown"
+      },
+      {
+        "url": "http://trailers.s3.mds.yandex.net/video_original/161699-ca81293ada77fc4e0a080d6db3d92ba0.mp4",
+        "name": "Трейлер (русские субтитры)",
+        "site": "unknown"
+      },
+      {
+        "url": "https://www.youtube.com/embed/TqkjyI1QD2A",
+        "name": "Capital in the Twenty-First Century – Official U.S. Trailer",
+        "site": "youtube",
+        "type": "TRAILER"
+      }
+    ],
+    "teasers": []
+  },
+  "seasonsInfo": [],
+  "persons": [
+    {
+      "id": 10094,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_10094.jpg",
+      "name": "Майкл Дуглас",
+      "enName": "Michael Douglas",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 7921,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7921.jpg",
+      "name": "Ванесса Редгрейв",
+      "enName": "Vanessa Redgrave",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 56948,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_56948.jpg",
+      "name": "Рональд Рейган",
+      "enName": "Ronald Reagan",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 2785973,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2785973.jpg",
+      "name": "Дэниэл Хаттлстоун",
+      "enName": "Daniel Huttlestone",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 90281,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_90281.jpg",
+      "name": "Маргарет Тэтчер",
+      "enName": "Margaret Thatcher",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 2232185,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2232185.jpg",
+      "name": "Кейт Уильямс",
+      "enName": "Kate Williams",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 2415232,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2415232.jpg",
+      "name": "Джиллиан Тетт",
+      "enName": "Gillian Tett",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 869945,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_869945.jpg",
+      "name": "Джозеф Стиглиц",
+      "enName": "Joseph Stiglitz",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 1559700,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1559700.jpg",
+      "name": "Френсис Фукуяма",
+      "enName": "Francis Fukuyama",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 2311133,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2311133.jpg",
+      "name": "Йен Бреммер",
+      "enName": "Ian Bremmer",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 3689583,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3689583.jpg",
+      "name": "Томас Пикетти",
+      "enName": "Thomas Piketty",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 4736974,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4736974.jpg",
+      "name": null,
+      "enName": "Faiza Shaheen",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 3086732,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3086732.jpg",
+      "name": null,
+      "enName": "Simon Johnson",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 2461001,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2461001.jpg",
+      "name": null,
+      "enName": "Rana Foroohar",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 5892780,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5892780.jpg",
+      "name": null,
+      "enName": "Gabriel Zucman",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 4271058,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4271058.jpg",
+      "name": null,
+      "enName": "Lucas Chancel",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 6038303,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6038303.jpg",
+      "name": null,
+      "enName": "Suresh Naidu",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 3120025,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3120025.jpg",
+      "name": null,
+      "enName": "Paul Piff",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 4938019,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_4938019.jpg",
+      "name": null,
+      "enName": "Bryce Edwards",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 6038304,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6038304.jpg",
+      "name": null,
+      "enName": "Paul Mason",
+      "profession": "актеры",
+      "enProfession": "actor"
+    },
+    {
+      "id": 618011,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_618011.jpg",
+      "name": "Жан-Бенуа Данкель",
+      "enName": "Jean-Benoît Dunckel",
+      "profession": "композиторы",
+      "enProfession": "composer"
+    },
+    {
+      "id": 934342,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_934342.jpg",
+      "name": "Джастин Пембертон",
+      "enName": "Justin Pemberton",
+      "profession": "режиссеры",
+      "enProfession": "director"
+    },
+    {
+      "id": 2087863,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_2087863.jpg",
+      "name": "Санди Бомпар",
+      "enName": "Sandie Bompar",
+      "profession": "монтажеры",
+      "enProfession": "editor"
+    },
+    {
+      "id": 629866,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_629866.jpg",
+      "name": "Дэррил Уорд",
+      "enName": "Darryl Ward",
+      "profession": "операторы",
+      "enProfession": "operator"
+    },
+    {
+      "id": 5623473,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5623473.jpg",
+      "name": "Йохан де Фариа",
+      "enName": "Johan de Faria",
+      "profession": "продюсеры",
+      "enProfession": "producer"
+    },
+    {
+      "id": 5036480,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_5036480.jpg",
+      "name": "Янн Ле Прадо",
+      "enName": "Yann Le Prado",
+      "profession": "продюсеры",
+      "enProfession": "producer"
+    },
+    {
+      "id": 490056,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_490056.jpg",
+      "name": "Катрин Мэдигэн",
+      "enName": "Catherine Madigan",
+      "profession": "продюсеры",
+      "enProfession": "producer"
+    },
+    {
+      "id": 33391,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_33391.jpg",
+      "name": "Мэттью Меткалф",
+      "enName": "Matthew Metcalfe",
+      "profession": "продюсеры",
+      "enProfession": "producer"
+    },
+    {
+      "id": 934342,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_934342.jpg",
+      "name": "Джастин Пембертон",
+      "enName": "Justin Pemberton",
+      "profession": "редакторы",
+      "enProfession": "writer"
+    },
+    {
+      "id": 33391,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_33391.jpg",
+      "name": "Мэттью Меткалф",
+      "enName": "Matthew Metcalfe",
+      "profession": "редакторы",
+      "enProfession": "writer"
+    },
+    {
+      "id": 3689583,
+      "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_3689583.jpg",
+      "name": "Томас Пикетти",
+      "enName": "Thomas Piketty",
+      "profession": "редакторы",
+      "enProfession": "writer"
+    }
+  ],
+  "lists": [],
+  "typeNumber": 1,
+  "alternativeName": "Capital in the Twenty-First Century",
+  "enName": null,
+  "names": [
+    {
+      "name": "Капитал в XXI веке"
+    },
+    {
+      "name": "Capital in the Twenty-First Century"
+    },
+    {
+      "name": "Капітал у двадцять першому столітті",
+      "language": "UA",
+      "type": null
+    },
+    {
+      "name": "Capital in the 21st Century",
+      "language": "NZ",
+      "type": null
+    },
+    {
+      "name": "Kapitalen i det 21. århundrede",
+      "language": "DK",
+      "type": null
+    },
+    {
+      "name": "21世紀の資本",
+      "language": "JP",
+      "type": null
+    },
+    {
+      "name": "O Capital no Século XXI",
+      "language": "BR",
+      "type": null
+    },
+    {
+      "name": "Le Capital au XXIe siècle",
+      "language": "FR",
+      "type": null
+    },
+    {
+      "name": "Das Kapital im 21. Jahrhundert",
+      "language": "DE",
+      "type": null
+    },
+    {
+      "name": "Kapitał w XXI wieku",
+      "language": "PL",
+      "type": null
+    },
+    {
+      "name": "El capital en el siglo XXI",
+      "language": "ES",
+      "type": null
+    }
+  ],
+  "ratingMpaa": null,
+  "shortDescription": "Почему деньги все еще правят миром: экономисты и журналисты рассказывают о природе социального неравенства",
+  "technology": {
+    "hasImax": false,
+    "has3D": false
+  },
+  "ticketsOnSale": false,
+  "updatedAt": "2023-06-02T08:46:01.177Z",
+  "budget": {},
+  "sequelsAndPrequels": [],
+  "imagesInfo": {
+    "framesCount": 0
+  },
+  "similarMovies": [],
+  "ageRating": 16,
+  "logo": {
+    "url": null
+  },
+  "watchability": {
+    "items": [
+      {
+        "name": "Okko",
+        "logo": {
+          "url": "https://avatars.mds.yandex.net/get-ott/239697/7713e586-17d1-42d1-ac62-53e9ef1e70c3/orig"
+        },
+        "url": "https://okko.tv/movie/capital-in-the-twenty-first-century?utm_medium=referral&utm_source=yandex_search&utm_campaign=new_search_feed"
+      },
+      {
+        "name": "Иви",
+        "logo": {
+          "url": "https://avatars.mds.yandex.net/get-ott/2419418/0dfd1724-848f-4725-9160-abc571f41c11/orig"
+        },
+        "url": "https://www.ivi.ru/watch/414311?utm_source=yandex&utm_medium=wizard"
+      },
+      {
+        "name": "KION",
+        "logo": {
+          "url": "https://avatars.mds.yandex.net/get-ott/239697/daeb142e-3ecc-4bb2-9bff-4827996643ab/orig"
+        },
+        "url": "https://kion.ru/video/movie/579172831?utm_source=yandex&utm_medium=organic&utm_campaign=wizard"
+      },
+      {
+        "name": "НТВ-ПЛЮС Онлайн ТВ",
+        "logo": {
+          "url": "https://avatars.mds.yandex.net/get-ott/223007/c6b9b3d8-3258-4394-9cae-c86fdb56a0c6/orig"
+        },
+        "url": "https://ntvplus.tv/watch/25084-kapital-v-xxi-veke?utm_source=kinopoisk"
+      }
+    ]
+  },
+  "top10": null,
+  "top250": null,
+  "deletedAt": null,
+  "isSeries": false,
+  "seriesLength": null,
+  "totalSeriesLength": null
+}

@@ -1,0 +1,33 @@
+{
+  "rating": {
+    "kp": 9.138,
+    "imdb": 9.9,
+    "await": null
+  },
+  "votes": {
+    "kp": 659056,
+    "imdb": 2890,
+    "filmCritics": 0,
+    "russianFilmCritics": 0,
+    "await": 210
+  },
+  "backdrop": {
+    "url": "https://psv4.userapi.com/c237331/u259024015/docs/d19/d211f414282b/Frame_1.png?extra=vHMKbUExE4ltWKNA6gdCRxdxEfh-UMBJajMS8REQURYDUzEwsm0AAUKRxEEXRys47fODgMf-xC3hX4T4tFHRkBS0OUenoJd_OE2MKvI4R52dAWeTWhmQ9IJ8Cjki8pTvUj4P-X-aRccNrj_lCX7gIsamEg"
+  },
+  "name": "Во все Луговские",
+  "description": "Многострадальное село, которое пережило два крупномасштабных переездов по Европе. Луговое – место не для слабаков, и в очередной раз придется убедиться на собственной шкуре…",
+  "year": 2023,
+  "genres": [
+    {
+      "name": "документальный"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Франция"
+    },
+    {
+      "name": "Новая Зеландия"
+    }
+  ]
+}
