@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kp-react/static/css/main.280c13f5.css",
-    "main.js": "/kp-react/static/js/main.3bd2c249.js",
-    "static/media/DaysOne.ttf": "/kp-react/static/media/DaysOne.ac0dc3db5e2a5eea68db.ttf",
+    "main.css": "/kp-react/static/css/main.92ac1df7.css",
+    "main.js": "/kp-react/static/js/main.3e315633.js",
+    "static/media/Aqum.ttf": "/kp-react/static/media/Aqum.41b007e68088b802dafd.ttf",
     "static/media/kpDefault.png": "/kp-react/static/media/kpDefault.701f99a42e9ad8460921.png",
     "index.html": "/kp-react/index.html",
-    "main.280c13f5.css.map": "/kp-react/static/css/main.280c13f5.css.map",
-    "main.3bd2c249.js.map": "/kp-react/static/js/main.3bd2c249.js.map"
+    "main.92ac1df7.css.map": "/kp-react/static/css/main.92ac1df7.css.map",
+    "main.3e315633.js.map": "/kp-react/static/js/main.3e315633.js.map"
   },
   "entrypoints": [
-    "static/css/main.280c13f5.css",
-    "static/js/main.3bd2c249.js"
+    "static/css/main.92ac1df7.css",
+    "static/js/main.3e315633.js"
   ]
 }
