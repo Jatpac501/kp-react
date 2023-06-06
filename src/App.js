@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import axios from 'axios';
 import Post from './components/Post';
-import './styles/App.css';
+import './styles/App.sass';
 
 export default function App() {
   // token from kinopoisk.dev
