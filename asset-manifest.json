@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kp-react/static/css/main.92ac1df7.css",
+    "main.css": "/kp-react/static/css/main.46dee12e.css",
     "main.js": "/kp-react/static/js/main.c95e38a2.js",
     "static/media/Aqum.ttf": "/kp-react/static/media/Aqum.41b007e68088b802dafd.ttf",
     "static/media/kpDefault.png": "/kp-react/static/media/kpDefault.701f99a42e9ad8460921.png",
     "index.html": "/kp-react/index.html",
-    "main.92ac1df7.css.map": "/kp-react/static/css/main.92ac1df7.css.map",
+    "main.46dee12e.css.map": "/kp-react/static/css/main.46dee12e.css.map",
     "main.c95e38a2.js.map": "/kp-react/static/js/main.c95e38a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.92ac1df7.css",
+    "static/css/main.46dee12e.css",
     "static/js/main.c95e38a2.js"
   ]
 }
