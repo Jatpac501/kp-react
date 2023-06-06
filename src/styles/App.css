@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Days One';
-    src: url(../font/DaysOne.ttf);
+    font-family: 'Aqum';
+    src: url(../font/Aqum.ttf);
 }
 * {
     margin: 0;
@@ -16,7 +16,9 @@ body {
     background: #222;
 }   
 .app {
-    font-family: 'Days One', sans-serif;
+    color:#fff;
+    overflow: hidden;
+    font-family: 'Aqum', sans-serif;
     margin: 40px;
     display: flex;
     flex-direction: column;     
@@ -47,6 +49,7 @@ body {
 }
 .title {
     font-size: 26px;
+    text-align: center;
 }
 .body {
     text-align: center;
@@ -67,16 +70,34 @@ body {
     position: absolute;
     object-fit: cover;
     background: url(kpDefault.png);
+    background-color: #000;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .toKP {
+    text-decoration: none;
     color: #fff;
-    font-family: 'Days One', sans-serif;
+    font-family: 'Aqum', sans-serif;
     font-size: 16px;
     background: linear-gradient(315deg,#f50 59.91%,#d6bb00);
-    border-radius: 20px;
+    border-radius: 16px;
     border: none;
     padding: 10px;
-    transition: .3s;
+    transition: .6s;
+    filter: hue-rotate(0deg);
+    animation: fade 5s infinite;
+    animation-play-state: paused;
+}
+.toKP:hover {
+    animation-play-state: running;
+}
+@keyframes fade {
+    0% {
+        filter: hue-rotate(0deg);
+    }
+    100% {
+        filter: hue-rotate(360deg);
+    }
 }
 .genres {
     text-align: center;
@@ -84,6 +105,7 @@ body {
     white-space: nowrap;
     overflow: hidden;
     width: 450px;
+    padding: 10px;
 }
 .randomBtn {
     width: 800px;
@@ -92,7 +114,7 @@ body {
     border-radius: 60px;
     background: #1c1c1c;
     color: #fff;
-    font-family: 'Days One', sans-serif;
+    font-family: 'Aqum', sans-serif;
     font-size: 20px;
     transition: .3s ease;
 }
@@ -108,7 +130,44 @@ body {
     border-radius: 60px;
     background: #1c1c1c;
     color: #fff;
-    font-family: 'Days One', sans-serif;
+    font-family: 'Aqum', sans-serif;
     font-size: 20px;
     transition: .3s ease;
+}
+.name {
+    background: linear-gradient(115deg,#f50 39.91%,#d6bb00);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.8em;
+}
+@media (max-width: 900px) {
+    .title {
+        font-size: 22px;
+    }
+    .rating {
+        font-size: 24px;
+    }
+    .post, .card, .randomBtn, .poster, .apiKey {
+        width: 90vw;
+    }
+    .post, .card , .poster{
+        height: 60vh;
+    }
+    .body {
+        overflow: hidden;
+    }
+    .genres {
+        width: 80%;
+    }
+    .app {
+        margin: 0;
+    }
+    .randomBtn {
+        font-size: 18px;
+    }
+    .card {
+        margin: 0px;
+    }
 }
